@@ -2,9 +2,9 @@
 
 ##
 
-- 🔭 Eu atualmente estou trabalhando como Freelance na Plataforma 99freelas.com.
-- 🌱 Estou atualmente cursando Ciência da Computação e fazedno um cruso de desenvolvedor js
-- ⚡ Um fato divertido: Só consigo estudar ou trabalhar ouvindo música no caso rap.
+- 🔭 Eu atualmente estou trabalhando como Freelance na Plataforma 99freelas.com;
+- 🌱 Estou atualmente cursando Ciência da Computação e fazendo um cruso de desenvolvedor js;
+- ⚡ Um fato divertido: Só consigo estudar ou trabalhar ouvindo música;
 
 
 
