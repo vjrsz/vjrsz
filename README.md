@@ -1,8 +1,8 @@
 ### Hello, Are around here?
 
-- 🔭 Pleasure, my name is Valter Junior ; 
-- 🌱 Always learning the Art of Programming;
-- ⚡ Since 2019;
+- 👽 Pleasure, my name is Valter Junior ; 
+- 👨‍💻 Always learning the Art of Programming;
+- 😳 Since 2019;
 
 <div>
   
