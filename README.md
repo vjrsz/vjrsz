@@ -6,8 +6,8 @@
 
 <div>
   
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=junior2105&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior2105&layout=compact&langs_count=16&theme=gotham"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=vjrsz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjrsz&layout=compact&langs_count=16&theme=gotham"/>
 </div>
  
 ## Tecnology
@@ -25,4 +25,4 @@
  ## Contacts
 <a href = "https://www.instagram.com/vjrx._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/junior2105/junior2105/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vjrsz/vjrsz/blob/output/github-contribution-grid-snake.svg)
