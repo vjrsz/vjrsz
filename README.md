@@ -23,6 +23,6 @@
 </p>
  
  ## Contacts
-<a href = "https://www.instagram.com/vjrsz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
+<a href = "https://www.instagram.com/vjrsz"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:juniornunes1008@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 ![Snake animation](https://github.com/vjrsz/vjrsz/blob/output/github-contribution-grid-snake.svg)
