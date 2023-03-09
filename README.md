@@ -20,7 +20,7 @@
 <img height="40" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white">
 <img height="40" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
 <img height="40" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white">
-<img height="40" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=laravel&logoColor=white">
+<img height="40" src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white">
 <img height="40" src="https://img.shields.io/badge/MySql-000000?style=for-the-badge&logo=mysql&logoColor=white">
 <img height="40" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
 <img height="40" src="https://img.shields.io/badge/Jquery-000000?style=for-the-badge&logo=jquery&logoColor=white">
