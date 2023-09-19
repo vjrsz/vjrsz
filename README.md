@@ -25,10 +25,8 @@
 <br /> <br />
 
 <h2 align="center">📈 &ensp; <i>Activities</i></h2>
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=vjrsz&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Vjrsz%20Contribution%20Graph&cache_seconds=7200" />
-<br/><br/>
-<img align="left" height="400px" width="300px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=vjrsz&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Vjrsz%20Top%20Langs&cache_seconds=7200" />
-<div align="right">
+<div align="center">
+    <img align="left" height="400px" width="300px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=vjrsz&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Vjrsz%20Top%20Langs&cache_seconds=7200" />
     <img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=vjrsz&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Vjrsz%20Github%20Stats&cache_seconds=7200" />
     <img height="203px" src="https://streak-stats.demolab.com?user=vjrsz&theme=tokyonight&hide_border=true&cache_seconds=7200" />
 </div>
