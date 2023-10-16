@@ -21,6 +21,9 @@
     <a href="https://www.linkedin.com/in/vjrsz/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge">
     </a>
+    <a href="mailto:vjrszx@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge">
+    </a>
 </p>
 <br /> <br />
 
