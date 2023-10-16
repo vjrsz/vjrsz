@@ -9,9 +9,9 @@
 <h2 align="center">🛠️ &ensp; <i>Technologies</i></h2>
 <br /> <br />
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,vscode,linux,bash" alt=""> <br />
+    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,vscode,idea,postman" alt=""> <br />
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,vue" alt=""> <br />
-    <img src="https://skillicons.dev/icons?i=c,java,python,php,laravel" alt=""> <br />
+    <img src="https://skillicons.dev/icons?i=c,java,spring,python,php,laravel" alt=""> <br />
     <img src="https://skillicons.dev/icons?i=mysql" alt=""> <br />
 </div>
 <br /> <br />
