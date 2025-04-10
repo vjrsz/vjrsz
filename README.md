@@ -1,30 +1,18 @@
-<h1 align="center">Hello Dev<i>sz</i></h1>
-<div align="center">
-    <p>👽 My name is Valter Junior</p>
-    <p>‍💻 Always learning the Art of Programming</p>
-    <p>😳 Since 2019</p>
-</div>
-<br />
+<h1>Hi There! 👋</h1>
 
-<h2 align="center">🛠️ &ensp; <i>Technologies</i></h2>
-<br /> <br />
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,vscode,idea,postman,docker" alt=""> <br />
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,vue,angular" alt=""> <br />
-    <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,ts,express" alt=""> <br />
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt=""> <br />
-</div>
-<br /> <br />
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/fernanda-kipper-5958a61a9/](https://www.linkedin.com/in/vjrsz/))](https://www.linkedin.com/in/vjrsz/)
+[![Gmail Badge](https://img.shields.io/badge/-juniornunes1008@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juniornunes1008@gmail.com)](mailto:juniornunes1008@gmail.com)
 
-<h2 align="center">📩 &ensp; <i>Contact</i></h2>
-<p align="center">
-    <a href="https://www.linkedin.com/in/vjrsz/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge">
-    </a>
-    <a href="mailto:juniornunes1008@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge">
-    </a>
-</p>
-<br /> <br />
 
-![Snake animation](https://github.com/vjrsz/vjrsz/blob/output/github-contribution-grid-snake.svg)
+## My name is Valter Junior
+(Java | Spring Boot | AWS | React JS | Laravel ) 🚀
+- 👩‍💻 Desenvolvedor Full-Stack @ ebsss e-business software
+- 🎓 Bachelor's degree in Computer Science
+- 🌐 Passionate about web development
+- 💡 Love a good challenge
+
+<div align="left">
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjrsz&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  
+ </div>
