@@ -1,6 +1,6 @@
 <h1>Hi There! 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/fernanda-kipper-5958a61a9/](https://www.linkedin.com/in/vjrsz/))](https://www.linkedin.com/in/vjrsz/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/valter-junnior/](https://www.linkedin.com/in/valter-junnior/))](https://www.linkedin.com/in/valter-junnior/)
 [![Gmail Badge](https://img.shields.io/badge/-juniornunes1008@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juniornunes1008@gmail.com)](mailto:juniornunes1008@gmail.com)
 
 
@@ -13,6 +13,6 @@
 
 <div align="left">
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjrsz&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valter-junnior&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
   
  </div>
